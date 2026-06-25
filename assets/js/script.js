@@ -5,7 +5,7 @@
 
 /* ---- CONFIG (edit these) ---------------------------------- */
 const CONFIG = {
-  applicationEmail: "info@worldcupkatowiceinternationals.eu", // ← set the real inbox for trip applications
+  applicationEmail: "info@katowiceinternationals.org", // inbox for Rome-trip applications
   social: {
     facebook: "https://www.facebook.com/katowiceinternationals",
     instagram: "https://www.instagram.com/katowiceinternationals/",
