@@ -12,7 +12,7 @@ const CONFIG = {
     linkedin: "https://www.linkedin.com/company/katowice-internationals-foundation-garagerasmus4silesia/",
     youtube: "https://www.youtube.com/@katowiceinternationalsgara7043"
   },
-  stripeDonationUrl: "", // ← paste your Stripe Payment Link here (Apple Pay, card, PayPal…). Empty = falls back to Franek's page.
+  stripeDonationUrl: "https://donate.stripe.com/8x2aEX21JfwqbXmeZk4F200", // Stripe donation link (Apple Pay, card, PayPal…)
   galleryCount: 22
 };
 
